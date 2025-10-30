@@ -1,1 +1,5 @@
-Flask==3.0.3
+Flask==2.3.4
+praat-parselmouth==0.4.1
+pydub==0.25.1
+numpy==1.26.5
+librosa==0.10.4
